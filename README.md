@@ -1,0 +1,11 @@
+# TODO
+- Fix charger les textures des projectiles
+- Fix charger les textures des armes
+- ~Loot table
+- Ajouter des bonus
+    - Potion de vitesse
+    - Coeur supplémentaire
+- Game Over
+- Son
+- Musique
+- Un gm en mode singleton
